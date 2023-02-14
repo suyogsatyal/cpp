@@ -74,7 +74,7 @@ The scope resolution operator in C++ is represented by two colons `::` and is us
 
 It allows you to access variables, functions, and other identifiers that are defined in a different namespace or class, or in the global scope.
 
-For example, if you have two functions with the same name, but one is defined in the global scope and the other is defined in a namespace, you can use scope operator as shown in [eg 2.1](https://github.com/suyogsatyal/cpp/blob/main/Chapter%202/Chapter%202.md).
+For example, if you have two functions with the same name, but one is defined in the global scope and the other is defined in a namespace, you can use scope operator as shown in [eg 2.1](https://github.com/suyogsatyal/cpp/blob/main/Chapter%202/Chapter%202.md#21-namespace).
 
 ## 2.5) Inline Function
 Inline functions are a C++ enhancement feature to increase the execution time of a program. Function can be made inline so that compiler can replace those function definition wherever those are being called.
