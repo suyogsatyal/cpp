@@ -12,7 +12,7 @@ Feel free to use the code quickly by using the following online compilers:
 |Unit |ASCII                              |
 |-|----------------------------------------------|
 |1|[Introduction to OOP](https://github.com/suyogsatyal/cpp/blob/main/Chapter%201/Chapter%201.md)|
-|2|Basics of C++|
+|2|[Basics of C++](https://github.com/suyogsatyal/cpp/blob/main/Chapter%202/Chapter%202.md)|
 |3|Classes & Objects|
 |4|Operator Overloading|
 |5|Inheritance|
